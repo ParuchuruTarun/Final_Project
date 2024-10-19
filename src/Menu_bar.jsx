@@ -40,9 +40,7 @@ function Menu_bar() {
 
     return(
         <div className='nav_bar'>
-            <div className='logo'>
-                {/* <img src="public/Logo.png" alt="Logo" className='vignan_logo'/> */}
-            </div>
+            <div className='logo'></div>
             <div className='title_area'>
                 <div className='title'>
                     <div className='title1'>
